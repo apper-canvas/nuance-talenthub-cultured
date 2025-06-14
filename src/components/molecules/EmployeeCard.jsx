@@ -37,8 +37,8 @@ const EmployeeCard = ({ employee, onView, onEdit }) => {
             </div>
           </div>
           
-          <div className="mt-3 text-xs text-gray-400">
-            Employee ID: {employee.employeeCode}
+<div className="mt-3 text-xs text-gray-400">
+            Employee ID: {employee.employee_code || employee.employeeCode}
           </div>
           
           <div className="mt-4 flex space-x-2">
