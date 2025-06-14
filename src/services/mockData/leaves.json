@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "employeeId": "1",
+    "leaveType": "Annual Leave",
+    "startDate": "2024-02-15",
+    "endDate": "2024-02-17",
+    "reason": "Family wedding in Delhi",
+    "status": "approved",
+    "approvedBy": "Priya Patel",
+    "appliedOn": "2024-02-01T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "employeeId": "3",
+    "leaveType": "Sick Leave",
+    "startDate": "2024-01-20",
+    "endDate": "2024-01-22",
+    "reason": "Fever and cold symptoms",
+    "status": "approved",
+    "approvedBy": "Priya Patel",
+    "appliedOn": "2024-01-19T14:15:00Z"
+  },
+  {
+    "id": "3",
+    "employeeId": "5",
+    "leaveType": "Festival Holiday",
+    "startDate": "2024-03-08",
+    "endDate": "2024-03-08",
+    "reason": "Holi celebration",
+    "status": "pending",
+    "approvedBy": null,
+    "appliedOn": "2024-02-25T09:45:00Z"
+  },
+  {
+    "id": "4",
+    "employeeId": "2",
+    "leaveType": "Annual Leave",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-12",
+    "reason": "Personal travel to Goa",
+    "status": "pending",
+    "approvedBy": null,
+    "appliedOn": "2024-03-15T16:20:00Z"
+  },
+  {
+    "id": "5",
+    "employeeId": "4",
+    "leaveType": "Maternity Leave",
+    "startDate": "2024-05-01",
+    "endDate": "2024-11-01",
+    "reason": "Maternity leave as per company policy",
+    "status": "approved",
+    "approvedBy": "Rajesh Kumar",
+    "appliedOn": "2024-03-01T11:00:00Z"
+  }
+]

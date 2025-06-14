@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@talenthub.com",
+    "phone": "+91 98765 43210",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "joinDate": "2022-03-15",
+    "employeeCode": "EMP001",
+    "manager": "Priya Patel",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "Priya Patel",
+    "email": "priya.patel@talenthub.com",
+    "phone": "+91 98765 43211",
+    "designation": "Engineering Manager",
+    "department": "Engineering",
+    "joinDate": "2021-01-20",
+    "employeeCode": "EMP002",
+    "manager": "Rajesh Kumar",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@talenthub.com",
+    "phone": "+91 98765 43212",
+    "designation": "Frontend Developer",
+    "department": "Engineering",
+    "joinDate": "2023-06-10",
+    "employeeCode": "EMP003",
+    "manager": "Priya Patel",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "name": "Anita Desai",
+    "email": "anita.desai@talenthub.com",
+    "phone": "+91 98765 43213",
+    "designation": "HR Manager",
+    "department": "Human Resources",
+    "joinDate": "2020-11-05",
+    "employeeCode": "EMP004",
+    "manager": "Rajesh Kumar",
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "Karan Mehta",
+    "email": "karan.mehta@talenthub.com",
+    "phone": "+91 98765 43214",
+    "designation": "DevOps Engineer",
+    "department": "Engineering",
+    "joinDate": "2022-08-22",
+    "employeeCode": "EMP005",
+    "manager": "Priya Patel",
+    "status": "active"
+  }
+]

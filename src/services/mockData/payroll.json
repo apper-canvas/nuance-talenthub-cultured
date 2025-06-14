@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "employeeId": "1",
+    "month": "2024-02",
+    "basicSalary": 75000,
+    "allowances": {
+      "hra": 22500,
+      "transport": 5000,
+      "meal": 3000,
+      "medical": 2500
+    },
+    "deductions": {
+      "pf": 9000,
+      "insurance": 2000,
+      "tax": 12000
+    },
+    "netPay": 85000,
+    "status": "processed"
+  },
+  {
+    "id": "2",
+    "employeeId": "2",
+    "month": "2024-02",
+    "basicSalary": 120000,
+    "allowances": {
+      "hra": 36000,
+      "transport": 8000,
+      "meal": 4000,
+      "medical": 5000
+    },
+    "deductions": {
+      "pf": 14400,
+      "insurance": 3000,
+      "tax": 25000
+    },
+    "netPay": 130600,
+    "status": "processed"
+  },
+  {
+    "id": "3",
+    "employeeId": "3",
+    "month": "2024-02",
+    "basicSalary": 45000,
+    "allowances": {
+      "hra": 13500,
+      "transport": 3000,
+      "meal": 2000,
+      "medical": 1500
+    },
+    "deductions": {
+      "pf": 5400,
+      "insurance": 1500,
+      "tax": 5000
+    },
+    "netPay": 53100,
+    "status": "processed"
+  },
+  {
+    "id": "4",
+    "employeeId": "4",
+    "month": "2024-02",
+    "basicSalary": 85000,
+    "allowances": {
+      "hra": 25500,
+      "transport": 6000,
+      "meal": 3500,
+      "medical": 3000
+    },
+    "deductions": {
+      "pf": 10200,
+      "insurance": 2500,
+      "tax": 15000
+    },
+    "netPay": 95300,
+    "status": "processed"
+  },
+  {
+    "id": "5",
+    "employeeId": "5",
+    "month": "2024-02",
+    "basicSalary": 65000,
+    "allowances": {
+      "hra": 19500,
+      "transport": 4500,
+      "meal": 2500,
+      "medical": 2000
+    },
+    "deductions": {
+      "pf": 7800,
+      "insurance": 2000,
+      "tax": 9000
+    },
+    "netPay": 74700,
+    "status": "processed"
+  }
+]
